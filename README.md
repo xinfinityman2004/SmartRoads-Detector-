@@ -3,11 +3,6 @@
 # SmartRoads-Detector  
 *AI-Powered Indian Traffic Sign Detection for Safer Roads*  
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![CV](https://img.shields.io/badge/Computer%20Vision-Traffic%20Sign%20Detection-green) ![Status](https://img.shields.io/badge/Status-Active-brightgreen)  
-
-**Developer**: [Your Name](https://github.com/your-username)  
-
----
 
 ## 🎯 Project Overview  
 India’s roads are diverse and dynamic, making automated traffic sign recognition a real-world challenge. **SmartRoads-Detector** leverages deep learning and computer vision to:  
